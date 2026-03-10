@@ -105,7 +105,8 @@ def train(model, loader, criterion, optimizer, epochs=5):
 
 
 ### Original vs Noisy Vs Reconstructed Image
-<img width="1324" height="450" alt="Screenshot 2026-03-10 160818" src="https://github.com/user-attachments/assets/ae186713-9953-4d9b-b481-62e9e0e5b09f" />
+<img width="1712" height="598" alt="Screenshot 2026-03-10 161440" src="https://github.com/user-attachments/assets/e550e9fc-eaf6-42e3-b10a-dba98f32b658" />
+
 
 
 ## RESULT
